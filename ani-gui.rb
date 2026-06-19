@@ -10,8 +10,8 @@ class AniGui < Formula
 
   desc "Small local web UI for ani-cli"
   homepage "https://github.com/rickwiththeportalgun/ani-gui"
-  url "https://github.com/rickwiththeportalgun/ani-gui/archive/refs/tags/v0.3.2.tar.gz"
-  sha256 "9e9f8c876dce9de15a87303467c499ccd45b7b791c3372333fa43fc828666b89"
+  url "https://github.com/rickwiththeportalgun/ani-gui/archive/refs/tags/v0.3.3.tar.gz"
+  sha256 "193ad65802d75522614e168f72c50de76dbf2c5bdb44e0663178f684102c5679"
   license "GPL-3.0-or-later"
 
   depends_on "python@3.12"
